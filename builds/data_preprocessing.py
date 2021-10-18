@@ -2,9 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # import needed libraries
-# import fnmatch
 import glob
-# import itertools
 import logging.config
 import networkx  # type: ignore
 import numpy  # type: ignore
